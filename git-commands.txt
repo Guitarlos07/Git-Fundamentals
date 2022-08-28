@@ -1,0 +1,15 @@
+$ git clone <repository SSH url> 
+
+$ git remote -v 
+
+$ git branch 
+
+$ git checkout -b <new-branch-name> 
+
+$ git status
+
+$ git add .
+
+$ git add <file-name.ext>
+
+$ git commit -m <'commit message'> Here we go!
